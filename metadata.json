@@ -1,0 +1,6 @@
+{
+  "name": "Network Protocols Explorer",
+  "description": "An interactive research report exploring key application layer protocols including HTTP, HTTPS, DNS, and more, complete with detailed technical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
